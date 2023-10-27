@@ -1,0 +1,106 @@
+{
+"description": "Marathon Runners, Grouped by Male/Female First Place",
+"source": "https://www.livestrong.com/article/13763749-marathon-statistics/",
+  "events": [
+  {
+  "name": "New York City",
+  "date": "November 6, 2022",
+    "latitude": 400, 
+    "longitude": 305, 
+  "participants": [
+    {
+  "male_first_place": "Evans Chebet",
+  "male_finish_time": "2:08:41",
+  "female_first_place": "Sharon Lokedi",
+  "female_finish_time": "2:23:23"
+      }
+    ]
+  },  
+{
+  "name": "Chicago",
+  "date": "October 9, 2022",
+  "latitude": 350,
+  "longitude":310,
+  "participants": [
+  {
+  "male_first_place": "Benson Kipruto",
+  "male_finish_time": "2:04:24",
+  "female_first_place": "Ruth Chepngetich",
+  "female_finish_time": "2:14:18"
+      }
+    ]
+  },
+{
+  "name": "Boston",
+  "date": "April 18, 2022",
+    "latitude": 410,  
+    "longitude": 300,
+  "participants": [
+  {
+  "male_first_place": "Evans Chebet",
+  "male_finish_time": "2:06:51",
+  "female_first_place": "Peres Jepchirchir",
+  "female_finish_time": "2:21:01"
+      }
+    ]
+  },
+{
+  "name": "Los Angeles",
+  "date": "March 20, 2022",
+    "latitude": 190,
+    "longitude": 340,
+  "participants": [  
+  {
+  "male_first_place": "Evans Chebet",
+  "male_finish_time": "2:08:41",
+  "female_first_place": "Sharon Lokedi",
+  "female_finish_time": "2:23:23"
+      }
+    ]
+  },
+{
+  "name": "London",
+  "date": "October 2, 2022",
+    "latitude": 700, 
+    "longitude": 240,
+  "participants": [
+  {
+  "male_first_place": "Amos Kipruto",
+  "male_finish_time": "2:04:39",
+  "female_first_place": "Yalemzerf Yehualaw",
+  "female_finish_time": "2:17:26"
+      }
+    ]  
+  },
+{
+
+  "name": "Tokyo",
+  "date": "March 4, 2022",
+    "latitude": 1300,
+    "longitude": 340,
+  "participants": [
+  {
+  "male_first_place": "Eliud Kipchoge",
+  "male_finish_time": "2:02:40",
+  "female_first_place": "Brigid Kosgei",
+  "female_finish_time": "2:16:02"
+      }
+    ]  
+  },
+{
+
+  "name": "Berlin Marathon",
+  "date": "September 24, 2022",
+    "latitude": 760,
+    "longitude": 240,
+  "participants": [
+  {
+  "male_first_place": "Eliud Kipchoge",
+  "male_finish_time": "2:01:09",
+  "female_first_place": "Tigist Assefa",
+  "female_finish_time": "2:15:37"
+        }
+      ]  
+    }
+  ]
+}
